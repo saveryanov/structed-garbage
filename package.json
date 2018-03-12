@@ -1,0 +1,25 @@
+{
+  "name": "structed-garbage",
+  "version": "0.9.5",
+  "description": "Garbage and test data generator with no dependencies that can generate random objects and arrays by defined structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Averyanov",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saveryanov/structed-garbage.git"
+  },
+  "keywords": [
+    "testdata",
+    "garbage",
+    "random"
+  ],
+  "bugs": {
+    "url": "https://github.com/saveryanov/structed-garbage/issues"
+  },
+  "homepage": "https://github.com/saveryanov/structed-garbage#readme"
+}
