@@ -1,6 +1,6 @@
 {
   "name": "structed-garbage",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "Garbage and test data generator with no dependencies that can generate random objects and arrays by defined structure",
   "main": "index.js",
   "scripts": {
