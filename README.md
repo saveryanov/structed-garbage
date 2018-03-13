@@ -224,14 +224,14 @@ garbage.collocation();
 ```
 
 
-### name
+### name, firstName, lastName
 
-Returns random string with first and last name.
+Returns random string with first and/or last name.
 
 ```
-garbage.name();
-
-// returns something like: "Ariella Dal"
+garbage.name(); // returns something like: "Ariella Dal"
+garbage.firstName(); // returns something like: "Rosalinda"
+garbage.lastName(); // returns something like: "Ripley"
 ```
 
 

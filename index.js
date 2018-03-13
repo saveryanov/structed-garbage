@@ -126,6 +126,20 @@ generators.name = function() {
 }
 
 /**
+ * random string with first name
+ */
+generators.firstName = function() {
+    return generators.element(firstNames);
+}
+
+/**
+ * random string with last name
+ */
+generators.lastName = function() {
+    return generators.element(lastNames);
+}
+
+/**
  * random string with email
  */
 generators.email = function() {
